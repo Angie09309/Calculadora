@@ -1,0 +1,29 @@
+.boton-contenedor {
+  height: 80px;
+  display: flex;
+  flex: 1 1;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 38px;
+  background-color: #f0f8ff;
+  color: #5b5b5b;
+  border-radius: 10px;
+  border: 2px solid #6a8dae;
+  margin: 4px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.boton-contenedor:hover {
+  background-color: #c9e4f4;
+  color: #ffffff;
+}
+
+.operador {
+  background-color: #6a8dae;
+}
+
+.operador:hover {
+  background-color: #c9e4f4;
+}
